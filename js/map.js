@@ -3,7 +3,7 @@
     =============================================== */
     (function($) {
         "use strict";
-        var locations=[ ['<div class="infobox"><h3 class="title"><a href="#">OUR USA OFFICE</a></h3><span>NEW YORK CITY 2045 / 65</span><span>+90 555 666 77 88</span></div>',
+        var locations=[ ['<div class="infobox"><h3 class="title"><a href="#">OUR MYPAGE OFFICE </a></h3><span>Duplex c-52, Rajul Township, Tilhari, Jabalpur</span><span>+91 930 012 9151</span></div>',
         23.118187, 79.973256,
         2]];
         var map=new google.maps.Map(document.getElementById('map'), {
